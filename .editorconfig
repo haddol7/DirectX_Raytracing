@@ -1,0 +1,3 @@
+# Preserve Windows line endings when editing project sources in Visual Studio.
+[*.{cpp,h,hlsl,sln,vcxproj,filters,user}]
+end_of_line = crlf

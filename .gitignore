@@ -1,0 +1,12 @@
+# Visual Studio local settings and generated build files
+**/.vs/
+**/bin/
+**/intermediate/
+*.vcxproj.user
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Local renderer outputs
+**/results/

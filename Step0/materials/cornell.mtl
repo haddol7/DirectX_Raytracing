@@ -1,0 +1,7 @@
+# One atlas material supported by the unmodified IntroToDXR loader.
+newmtl cornell_atlas
+Kd 1 1 1
+Ka 0 0 0
+Ks 0 0 0
+illum 1
+map_Kd textures/cornell_atlas.png
